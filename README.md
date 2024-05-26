@@ -9,6 +9,6 @@ docs.searxng.org
 ## How to use this Port
 
 ```console
-poudriere ports -c -m git+http -p dtxdf-searxng -U github.com/DtxdF/searxng-port
+poudriere ports -c -m git+http -p dtxdf_searxng -U https://github.com/DtxdF/searxng-port
 poudriere bulk -j <jail> -O dtxdf-searxng
 ```
