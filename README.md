@@ -6,7 +6,7 @@ docs.searxng.org
 
 ![searxng logo](https://raw.githubusercontent.com/searxng/searxng/master/src/brand/searxng.svg)
 
-## How to use this Port
+## How to build this Port
 
 ```console
 poudriere ports -c -m git+http -p dtxdf_searxng -U https://github.com/DtxdF/searxng-port
