@@ -10,5 +10,5 @@ docs.searxng.org
 
 ```console
 poudriere ports -c -m git+http -p dtxdf_searxng -U https://github.com/DtxdF/searxng-port
-poudriere bulk -j <jail> -O dtxdf-searxng
+poudriere bulk -j <jail> -O dtxdf_searxng
 ```
